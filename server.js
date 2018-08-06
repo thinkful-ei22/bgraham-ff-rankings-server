@@ -3,8 +3,10 @@
 const express = require('express');
 const mongoose = require('mongoose');
 const morgan = require('morgan');
+const cors = require('cors');
 
-const { PORT, MONGODB_URI } = require('./config');
+
+const { PORT, MONGODB_URI,CLIENT_ORIGIN } = require('./config');
 
 const stdOvrPlayersRouter = require('./routes/stdOvrPlayers');
 const pprOvrPlayersRouter = require('./routes/pprOvrPlayers');
@@ -33,6 +35,12 @@ app.use(morgan(process.env.NODE_ENV === 'development' ? 'dev' : 'common', {
   skip: () => process.env.NODE_ENV === 'test'
 }));
   
+app.use(
+  cors({
+    origin: CLIENT_ORIGIN
+  })
+);
+  
 // Create a static webserver
 app.use(express.static('public'));
   
@@ -41,23 +49,67 @@ app.use(express.json());
   
 
 // Mount routers
-app.use('/api/std/overall',stdOvrPlayersRouter);
-app.use('/api/ppr/overall',pprOvrPlayersRouter);
+app.use('/api/about', function (req, res, next) {
 
-app.use('/api/qb', stdQbPlayersRouter);
+  res.send('About Me');
+});
 
-app.use('/api/std/rb', stdRbPlayersRouter);
-app.use('/api/ppr/rb', pprRbPlayersRouter);
 
-app.use('/api/std/wr', stdWrPlayersRouter);
-app.use('/api/ppr/wr', pprWrPlayersRouter);
+app.use('/api/:category/:position', function (req, res, next) {
 
-app.use('/api/std/te', stdTePlayersRouter);
-app.use('/api/ppr/te', pprTePlayersRouter);
+  if (req.params.category === 'std'){
+    if (req.params.position === 'overall'){
+      stdOvrPlayersRouter(req, res, next);
+    }
+    else if (req.params.position === 'rb'){
+      stdRbPlayersRouter(req, res, next);
+    }
+    else if (req.params.position === 'wr'){
+      stdWrPlayersRouter(req, res, next);
+    }
+    else if (req.params.position === 'te'){
+      stdTePlayersRouter(req, res, next);
+    }
 
-app.use('/api/k', stdKPlayersRouter);
+  } 
+  else if (req.params.category === 'ppr'){
+    if (req.params.position === 'overall'){
+      pprOvrPlayersRouter(req, res, next);
+    }
+    else if (req.params.position === 'rb'){
+      pprRbPlayersRouter(req, res, next);
+    }
+    else if (req.params.position === 'wr'){
+      pprWrPlayersRouter(req, res, next);
+    }
+    else if (req.params.position === 'te'){
+      pprTePlayersRouter(req, res, next);
+    }
 
-app.use('/api/dst', stdDstPlayersRouter);
+  } 
+
+  else {
+    res.send('No data found');
+  }
+});
+
+
+app.use('/api/:position', function (req, res, next) {
+
+  if (req.params.position === 'qb'){
+    stdQbPlayersRouter(req, res, next);
+  }
+  else if (req.params.position === 'k'){
+    stdKPlayersRouter(req, res, next);
+  }
+  else if (req.params.position === 'dst'){
+    stdDstPlayersRouter(req, res, next);
+  }
+
+  else {
+    res.send('No data found');
+  }
+});
 
 
 // Custom 404 Not Found route handler
