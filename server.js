@@ -61,6 +61,9 @@ app.use('/api/:category/:position', function (req, res, next) {
     if (req.params.position === 'overall'){
       stdOvrPlayersRouter(req, res, next);
     }
+    else if (req.params.position === 'qb'){
+      stdQbPlayersRouter(req, res, next);
+    }
     else if (req.params.position === 'rb'){
       stdRbPlayersRouter(req, res, next);
     }
@@ -70,7 +73,12 @@ app.use('/api/:category/:position', function (req, res, next) {
     else if (req.params.position === 'te'){
       stdTePlayersRouter(req, res, next);
     }
-
+    else if (req.params.position === 'k'){
+      stdKPlayersRouter(req, res, next);
+    }
+    else if (req.params.position === 'dst'){
+      stdDstPlayersRouter(req, res, next);
+    }
   } 
   else if (req.params.category === 'ppr'){
     if (req.params.position === 'overall'){
@@ -94,22 +102,7 @@ app.use('/api/:category/:position', function (req, res, next) {
 });
 
 
-app.use('/api/:position', function (req, res, next) {
 
-  if (req.params.position === 'qb'){
-    stdQbPlayersRouter(req, res, next);
-  }
-  else if (req.params.position === 'k'){
-    stdKPlayersRouter(req, res, next);
-  }
-  else if (req.params.position === 'dst'){
-    stdDstPlayersRouter(req, res, next);
-  }
-
-  else {
-    res.send('No data found');
-  }
-});
 
 
 // Custom 404 Not Found route handler

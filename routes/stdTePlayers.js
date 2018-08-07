@@ -11,6 +11,7 @@ router.get('/', (req, res, next) =>{
 
   StdTe.find()
     .sort({Rank: 1})
+    .limit(100)
     .then(results => {
       res.status(200).json(results);
     })
