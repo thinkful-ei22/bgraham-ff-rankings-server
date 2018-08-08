@@ -3,11 +3,12 @@
 const mongoose = require ('mongoose');
 
 const pprOverallSchema = new mongoose.Schema({
-  name: {type: String, required: true},
-  team: String,
-  position: String,
-  byeWeek : Number,
-  rank: {type: Number, required: true}
+  Name: {type: String, required: true},
+  Team: String,
+  Position: String,
+  ByeWeek : Number,
+  Rank: {type: Number, required: true, unique: true},
+  UserRank: {type: Number, required: true, unique: true}
 }, {collection: 'ppr-overall'});
 
 pprOverallSchema.set('toObject', {

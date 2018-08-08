@@ -14,7 +14,9 @@
     "SpecialTeamsTouchdowns": 1,
     "FantasyPoints": 129,
     "AverageDraftPosition": 92.1,
-    "Rank": 1
+    "Rank": 1,
+    "UserRank": 1
+
   },
   {
     "Name": "Los Angeles Rams",
@@ -31,7 +33,9 @@
     "SpecialTeamsTouchdowns": 1,
     "FantasyPoints": 118,
     "AverageDraftPosition": 98.3,
-    "Rank": 2
+    "Rank": 2,
+    "UserRank": 2
+
   },
   {
     "Name": "Minnesota Vikings",
@@ -48,7 +52,9 @@
     "SpecialTeamsTouchdowns": 1,
     "FantasyPoints": 108,
     "AverageDraftPosition": 106.5,
-    "Rank": 3
+    "Rank": 3,
+    "UserRank": 3
+
   },
   {
     "Name": "Los Angeles Chargers",
@@ -65,7 +71,9 @@
     "SpecialTeamsTouchdowns": 1,
     "FantasyPoints": 123,
     "AverageDraftPosition": 115.8,
-    "Rank": 4
+    "Rank": 4,
+    "UserRank": 4
+
   },
   {
     "Name": "Philadelphia Eagles",
@@ -82,7 +90,9 @@
     "SpecialTeamsTouchdowns": 2,
     "FantasyPoints": 117,
     "AverageDraftPosition": 118.3,
-    "Rank": 5
+    "Rank": 5,
+    "UserRank": 5
+
   },
   {
     "Name": "Denver Broncos",
@@ -99,7 +109,9 @@
     "SpecialTeamsTouchdowns": 2,
     "FantasyPoints": 112,
     "AverageDraftPosition": 121.1,
-    "Rank": 6
+    "Rank": 6,
+    "UserRank": 6
+
   },
   {
     "Name": "Houston Texans",
@@ -116,7 +128,9 @@
     "SpecialTeamsTouchdowns": 1,
     "FantasyPoints": 107,
     "AverageDraftPosition": 127,
-    "Rank": 7
+    "Rank": 7,
+    "UserRank": 7
+
   },
   {
     "Name": "Baltimore Ravens",
@@ -133,7 +147,9 @@
     "SpecialTeamsTouchdowns": 1,
     "FantasyPoints": 110,
     "AverageDraftPosition": 138.4,
-    "Rank": 8
+    "Rank": 8,
+    "UserRank": 8
+
   },
   {
     "Name": "New Orleans Saints",
@@ -150,7 +166,9 @@
     "SpecialTeamsTouchdowns": 1,
     "FantasyPoints": 101,
     "AverageDraftPosition": 141.7,
-    "Rank": 9
+    "Rank": 9,
+    "UserRank": 9
+
   },
   {
     "Name": "New England Patriots",
@@ -167,7 +185,9 @@
     "SpecialTeamsTouchdowns": 1,
     "FantasyPoints": 99,
     "AverageDraftPosition": 156.6,
-    "Rank": 10
+    "Rank": 10,
+    "UserRank": 10
+
   },
   {
     "Name": "Carolina Panthers",
@@ -184,7 +204,9 @@
     "SpecialTeamsTouchdowns": 2,
     "FantasyPoints": 115,
     "AverageDraftPosition": 161,
-    "Rank": 11
+    "Rank": 11,
+    "UserRank": 11
+
   },
   {
     "Name": "Seattle Seahawks",
@@ -201,7 +223,9 @@
     "SpecialTeamsTouchdowns": 1,
     "FantasyPoints": 100,
     "AverageDraftPosition": 161.3,
-    "Rank": 12
+    "Rank": 12,
+    "UserRank": 12
+
   },
   {
     "Name": "Kansas City Chiefs",
@@ -218,7 +242,9 @@
     "SpecialTeamsTouchdowns": 2,
     "FantasyPoints": 106,
     "AverageDraftPosition": 164.3,
-    "Rank": 13
+    "Rank": 13,
+    "UserRank": 13
+
   },
   {
     "Name": "Tennessee Titans",
@@ -235,7 +261,9 @@
     "SpecialTeamsTouchdowns": 1,
     "FantasyPoints": 100,
     "AverageDraftPosition": 165.2,
-    "Rank": 14
+    "Rank": 14,
+    "UserRank": 14
+
   },
   {
     "Name": "Pittsburgh Steelers",
@@ -252,7 +280,9 @@
     "SpecialTeamsTouchdowns": 1,
     "FantasyPoints": 110,
     "AverageDraftPosition": 165.5,
-    "Rank": 15
+    "Rank": 15,
+    "UserRank": 15
+
   },
   {
     "Name": "Chicago Bears",
@@ -269,7 +299,9 @@
     "SpecialTeamsTouchdowns": 1,
     "FantasyPoints": 104,
     "AverageDraftPosition": 165.7,
-    "Rank": 16
+    "Rank": 16,
+    "UserRank": 16
+
   },
   {
     "Name": "Atlanta Falcons",
@@ -286,7 +318,9 @@
     "SpecialTeamsTouchdowns": 1,
     "FantasyPoints": 102,
     "AverageDraftPosition": 168.2,
-    "Rank": 17
+    "Rank": 17,
+    "UserRank": 17
+
   },
   {
     "Name": "Detroit Lions",
@@ -303,7 +337,9 @@
     "SpecialTeamsTouchdowns": 2,
     "FantasyPoints": 98,
     "AverageDraftPosition": 172.2,
-    "Rank": 18
+    "Rank": 18,
+    "UserRank": 18
+
   },
   {
     "Name": "Washington Redskins",
@@ -320,7 +356,9 @@
     "SpecialTeamsTouchdowns": 1,
     "FantasyPoints": 97,
     "AverageDraftPosition": 176,
-    "Rank": 19
+    "Rank": 19,
+    "UserRank": 19
+
   },
   {
     "Name": "Green Bay Packers",
@@ -337,7 +375,9 @@
     "SpecialTeamsTouchdowns": 1,
     "FantasyPoints": 95,
     "AverageDraftPosition": 177,
-    "Rank": 20
+    "Rank": 20,
+    "UserRank": 20
+
   },
   {
     "Name": "Arizona Cardinals",
@@ -354,7 +394,9 @@
     "SpecialTeamsTouchdowns": 1,
     "FantasyPoints": 98,
     "AverageDraftPosition": 179,
-    "Rank": 21
+    "Rank": 21,
+    "UserRank": 21
+
   },
   {
     "Name": "Dallas Cowboys",
@@ -371,7 +413,9 @@
     "SpecialTeamsTouchdowns": 1,
     "FantasyPoints": 93,
     "AverageDraftPosition": 180,
-    "Rank": 22
+    "Rank": 22,
+    "UserRank": 22
+
   },
   {
     "Name": "Oakland Raiders",
@@ -388,7 +432,9 @@
     "SpecialTeamsTouchdowns": 1,
     "FantasyPoints": 85,
     "AverageDraftPosition": 183,
-    "Rank": 23
+    "Rank": 23,
+    "UserRank": 23
+
   },
   {
     "Name": "Miami Dolphins",
@@ -405,7 +451,9 @@
     "SpecialTeamsTouchdowns": 1,
     "FantasyPoints": 88,
     "AverageDraftPosition": 184,
-    "Rank": 24
+    "Rank": 24,
+    "UserRank": 24
+
   },
   {
     "Name": "Cincinnati Bengals",
@@ -422,7 +470,9 @@
     "SpecialTeamsTouchdowns": 1,
     "FantasyPoints": 94,
     "AverageDraftPosition": 185,
-    "Rank": 25
+    "Rank": 25,
+    "UserRank": 25
+
   },
   {
     "Name": "San Francisco 49ers",
@@ -439,7 +489,8 @@
     "SpecialTeamsTouchdowns": 1,
     "FantasyPoints": 90,
     "AverageDraftPosition": 186,
-    "Rank": 26
+    "Rank": 26,
+    "UserRank": 26
   },
   {
     "Name": "Indianapolis Colts",
@@ -456,7 +507,8 @@
     "SpecialTeamsTouchdowns": 1,
     "FantasyPoints": 82,
     "AverageDraftPosition": 187,
-    "Rank": 27
+    "Rank": 27,
+    "UserRank": 27
   },
   {
     "Name": "Buffalo Bills",
@@ -473,7 +525,8 @@
     "SpecialTeamsTouchdowns": 1,
     "FantasyPoints": 96,
     "AverageDraftPosition": 188,
-    "Rank": 28
+    "Rank": 28,
+    "UserRank": 28
   },
   {
     "Name": "Tampa Bay Buccaneers",
@@ -490,7 +543,8 @@
     "SpecialTeamsTouchdowns": 1,
     "FantasyPoints": 97,
     "AverageDraftPosition": 189,
-    "Rank": 29
+    "Rank": 29,
+    "UserRank": 29
   },
   {
     "Name": "New York Jets",
@@ -507,7 +561,8 @@
     "SpecialTeamsTouchdowns": 1,
     "FantasyPoints": 83,
     "AverageDraftPosition": 190,
-    "Rank": 30
+    "Rank": 30,
+    "UserRank": 30
   },
   {
     "Name": "New York Giants",
@@ -524,7 +579,8 @@
     "SpecialTeamsTouchdowns": 1,
     "FantasyPoints": 97,
     "AverageDraftPosition": 191,
-    "Rank": 31
+    "Rank": 31,
+    "UserRank": 31
   },
   {
     "Name": "Cleveland Browns",
@@ -541,6 +597,7 @@
     "SpecialTeamsTouchdowns": 1,
     "FantasyPoints": 85,
     "AverageDraftPosition": 192,
-    "Rank": 32
+    "Rank": 32,
+    "UserRank": 32
   }
 ]

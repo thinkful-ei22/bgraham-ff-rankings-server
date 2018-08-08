@@ -12,7 +12,8 @@
     "ReceivingTouchdowns": 3,
     "FantasyPoints": 210.5,
     "AverageDraftPosition": 1.4,
-    "Rank": 1
+    "Rank": 1,
+      "UserRank": 1
   },
   {
     "Name": "Le'Veon Bell",
@@ -27,7 +28,8 @@
     "ReceivingTouchdowns": 3,
     "FantasyPoints": 175.1,
     "AverageDraftPosition": 2.5,
-    "Rank": 2
+    "Rank": 2,
+      "UserRank": 2
   },
   {
     "Name": "Ezekiel Elliott",
@@ -42,7 +44,8 @@
     "ReceivingTouchdowns": 2,
     "FantasyPoints": 233.6,
     "AverageDraftPosition": 3,
-    "Rank": 3
+    "Rank": 3,
+      "UserRank": 3
   },
   {
     "Name": "David Johnson",
@@ -57,7 +60,8 @@
     "ReceivingTouchdowns": 3,
     "FantasyPoints": 184.8,
     "AverageDraftPosition": 4,
-    "Rank": 4
+    "Rank": 4,
+      "UserRank": 4
   },
   {
     "Name": "Saquon Barkley",
@@ -72,7 +76,8 @@
     "ReceivingTouchdowns": 2,
     "FantasyPoints": 158.4,
     "AverageDraftPosition": 6.1,
-    "Rank": 5
+    "Rank": 5,
+      "UserRank": 5
   },
   {
     "Name": "Alvin Kamara",
@@ -87,7 +92,8 @@
     "ReceivingTouchdowns": 3,
     "FantasyPoints": 137.9,
     "AverageDraftPosition": 6.5,
-    "Rank": 6
+    "Rank": 6,
+      "UserRank": 6
   },
   {
     "Name": "Leonard Fournette",
@@ -102,7 +108,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 186.2,
     "AverageDraftPosition": 8.1,
-    "Rank": 7
+    "Rank": 7,
+      "UserRank": 7
   },
   {
     "Name": "Melvin Gordon",
@@ -117,7 +124,8 @@
     "ReceivingTouchdowns": 2,
     "FantasyPoints": 148.9,
     "AverageDraftPosition": 9.1,
-    "Rank": 8
+    "Rank": 8,
+      "UserRank": 8
   },
   {
     "Name": "Kareem Hunt",
@@ -132,7 +140,8 @@
     "ReceivingTouchdowns": 2,
     "FantasyPoints": 170.2,
     "AverageDraftPosition": 10,
-    "Rank": 9
+    "Rank": 9,
+      "UserRank": 9
   },
   {
     "Name": "Dalvin Cook",
@@ -147,7 +156,8 @@
     "ReceivingTouchdowns": 2,
     "FantasyPoints": 170.4,
     "AverageDraftPosition": 11.5,
-    "Rank": 10
+    "Rank": 10,
+      "UserRank": 10
   },
   {
     "Name": "Jordan Howard",
@@ -162,7 +172,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 159.6,
     "AverageDraftPosition": 15.6,
-    "Rank": 11
+    "Rank": 11,
+      "UserRank": 11
   },
   {
     "Name": "Devonta Freeman",
@@ -177,7 +188,8 @@
     "ReceivingTouchdowns": 2,
     "FantasyPoints": 145.1,
     "AverageDraftPosition": 16.4,
-    "Rank": 12
+    "Rank": 12,
+      "UserRank": 12
   },
   {
     "Name": "Joe Mixon",
@@ -192,7 +204,8 @@
     "ReceivingTouchdowns": 2,
     "FantasyPoints": 144.5,
     "AverageDraftPosition": 19.1,
-    "Rank": 13
+    "Rank": 13,
+      "UserRank": 13
   },
   {
     "Name": "Jerick McKinnon",
@@ -207,7 +220,8 @@
     "ReceivingTouchdowns": 2,
     "FantasyPoints": 119.8,
     "AverageDraftPosition": 20.4,
-    "Rank": 14
+    "Rank": 14,
+      "UserRank": 14
   },
   {
     "Name": "Christian McCaffrey",
@@ -222,7 +236,8 @@
     "ReceivingTouchdowns": 4,
     "FantasyPoints": 94.7,
     "AverageDraftPosition": 22.6,
-    "Rank": 15
+    "Rank": 15,
+      "UserRank": 15
   },
   {
     "Name": "Derrick Henry",
@@ -237,7 +252,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 141.8,
     "AverageDraftPosition": 24.6,
-    "Rank": 16
+    "Rank": 16,
+      "UserRank": 16
   },
   {
     "Name": "LeSean McCoy",
@@ -252,7 +268,8 @@
     "ReceivingTouchdowns": 2,
     "FantasyPoints": 134.4,
     "AverageDraftPosition": 26.7,
-    "Rank": 17
+    "Rank": 17,
+      "UserRank": 17
   },
   {
     "Name": "Derrius Guice",
@@ -267,7 +284,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 148,
     "AverageDraftPosition": 28.7,
-    "Rank": 18
+    "Rank": 18,
+      "UserRank": 18
   },
   {
     "Name": "Jay Ajayi",
@@ -282,7 +300,8 @@
     "ReceivingTouchdowns": 2,
     "FantasyPoints": 136.7,
     "AverageDraftPosition": 32.6,
-    "Rank": 19
+    "Rank": 19,
+      "UserRank": 19
   },
   {
     "Name": "Alex Collins",
@@ -297,7 +316,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 131.6,
     "AverageDraftPosition": 33.8,
-    "Rank": 20
+    "Rank": 20,
+      "UserRank": 20
   },
   {
     "Name": "Lamar Miller",
@@ -312,7 +332,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 105.6,
     "AverageDraftPosition": 39,
-    "Rank": 21
+    "Rank": 21,
+      "UserRank": 21
   },
   {
     "Name": "Rashaad Penny",
@@ -327,7 +348,8 @@
     "ReceivingTouchdowns": 2,
     "FantasyPoints": 127.5,
     "AverageDraftPosition": 40.6,
-    "Rank": 22
+    "Rank": 22,
+      "UserRank": 22
   },
   {
     "Name": "Kenyan Drake",
@@ -342,7 +364,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 122.4,
     "AverageDraftPosition": 41.5,
-    "Rank": 23
+    "Rank": 23,
+      "UserRank": 23
   },
   {
     "Name": "Mark Ingram",
@@ -357,7 +380,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 110.9,
     "AverageDraftPosition": 45,
-    "Rank": 24
+    "Rank": 24,
+      "UserRank": 24
   },
   {
     "Name": "Sony Michel",
@@ -372,7 +396,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 112.4,
     "AverageDraftPosition": 48.8,
-    "Rank": 25
+    "Rank": 25,
+      "UserRank": 25
   },
   {
     "Name": "Ronald Jones II",
@@ -387,7 +412,8 @@
     "ReceivingTouchdowns": 2,
     "FantasyPoints": 117,
     "AverageDraftPosition": 53.2,
-    "Rank": 26
+    "Rank": 26,
+      "UserRank": 26
   },
   {
     "Name": "Royce Freeman",
@@ -402,7 +428,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 106.3,
     "AverageDraftPosition": 53.8,
-    "Rank": 27
+    "Rank": 27,
+      "UserRank": 27
   },
   {
     "Name": "Marshawn Lynch",
@@ -417,7 +444,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 116.1,
     "AverageDraftPosition": 57.9,
-    "Rank": 28
+    "Rank": 28,
+      "UserRank": 28
   },
   {
     "Name": "Dion Lewis",
@@ -432,7 +460,8 @@
     "ReceivingTouchdowns": 2,
     "FantasyPoints": 104.7,
     "AverageDraftPosition": 61.5,
-    "Rank": 29
+    "Rank": 29,
+      "UserRank": 29
   },
   {
     "Name": "Carlos Hyde",
@@ -447,7 +476,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 97,
     "AverageDraftPosition": 64.3,
-    "Rank": 30
+    "Rank": 30,
+      "UserRank": 30
   },
   {
     "Name": "Marlon Mack",
@@ -462,7 +492,8 @@
     "ReceivingTouchdowns": 2,
     "FantasyPoints": 93.3,
     "AverageDraftPosition": 69.3,
-    "Rank": 31
+    "Rank": 31,
+      "UserRank": 31
   },
   {
     "Name": "Kerryon Johnson",
@@ -477,7 +508,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 83.6,
     "AverageDraftPosition": 69.4,
-    "Rank": 32
+    "Rank": 32,
+      "UserRank": 32
   },
   {
     "Name": "Tevin Coleman",
@@ -492,7 +524,8 @@
     "ReceivingTouchdowns": 2,
     "FantasyPoints": 105.6,
     "AverageDraftPosition": 75.4,
-    "Rank": 33
+    "Rank": 33,
+      "UserRank": 33
   },
   {
     "Name": "Rex Burkhead",
@@ -507,7 +540,8 @@
     "ReceivingTouchdowns": 2,
     "FantasyPoints": 86.9,
     "AverageDraftPosition": 76.1,
-    "Rank": 34
+    "Rank": 34,
+      "UserRank": 34
   },
   {
     "Name": "Jamaal Williams",
@@ -522,7 +556,8 @@
     "ReceivingTouchdowns": 2,
     "FantasyPoints": 98.8,
     "AverageDraftPosition": 81.4,
-    "Rank": 35
+    "Rank": 35,
+      "UserRank": 35
   },
   {
     "Name": "Tarik Cohen",
@@ -537,7 +572,8 @@
     "ReceivingTouchdowns": 2,
     "FantasyPoints": 47.7,
     "AverageDraftPosition": 84,
-    "Rank": 36
+    "Rank": 36,
+      "UserRank": 36
   },
   {
     "Name": "CJ Anderson",
@@ -552,7 +588,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 103.1,
     "AverageDraftPosition": 86.1,
-    "Rank": 37
+    "Rank": 37,
+      "UserRank": 37
   },
   {
     "Name": "Aaron Jones",
@@ -567,7 +604,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 85.4,
     "AverageDraftPosition": 86.2,
-    "Rank": 38
+    "Rank": 38,
+      "UserRank": 38
   },
   {
     "Name": "Nick Chubb",
@@ -582,7 +620,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 91.8,
     "AverageDraftPosition": 89.5,
-    "Rank": 39
+    "Rank": 39,
+      "UserRank": 39
   },
   {
     "Name": "Isaiah Crowell",
@@ -597,7 +636,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 106.8,
     "AverageDraftPosition": 89.9,
-    "Rank": 40
+    "Rank": 40,
+      "UserRank": 40
   },
   {
     "Name": "Ty Montgomery",
@@ -612,7 +652,8 @@
     "ReceivingTouchdowns": 2,
     "FantasyPoints": 47.7,
     "AverageDraftPosition": 98.4,
-    "Rank": 41
+    "Rank": 41,
+      "UserRank": 41
   },
   {
     "Name": "Chris Carson",
@@ -627,7 +668,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 55.6,
     "AverageDraftPosition": 99.6,
-    "Rank": 42
+    "Rank": 42,
+      "UserRank": 42
   },
   {
     "Name": "LeGarrette Blount",
@@ -642,7 +684,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 75.2,
     "AverageDraftPosition": 105.3,
-    "Rank": 43
+    "Rank": 43,
+      "UserRank": 43
   },
   {
     "Name": "Chris Thompson",
@@ -657,7 +700,8 @@
     "ReceivingTouchdowns": 3,
     "FantasyPoints": 55.1,
     "AverageDraftPosition": 105.7,
-    "Rank": 44
+    "Rank": 44,
+      "UserRank": 44
   },
   {
     "Name": "Corey Clement",
@@ -672,7 +716,8 @@
     "ReceivingTouchdowns": 2,
     "FantasyPoints": 70.9,
     "AverageDraftPosition": 113.4,
-    "Rank": 45
+    "Rank": 45,
+      "UserRank": 45
   },
   {
     "Name": "Doug Martin",
@@ -687,7 +732,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 66.4,
     "AverageDraftPosition": 118.5,
-    "Rank": 46
+    "Rank": 46,
+      "UserRank": 46
   },
   {
     "Name": "D'Onta Foreman",
@@ -702,7 +748,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 65,
     "AverageDraftPosition": 119.3,
-    "Rank": 47
+    "Rank": 47,
+      "UserRank": 47
   },
   {
     "Name": "Duke Johnson",
@@ -717,7 +764,8 @@
     "ReceivingTouchdowns": 2,
     "FantasyPoints": 42.6,
     "AverageDraftPosition": 126.9,
-    "Rank": 48
+    "Rank": 48,
+      "UserRank": 48
   },
   {
     "Name": "Devontae Booker",
@@ -732,7 +780,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 76,
     "AverageDraftPosition": 129.4,
-    "Rank": 49
+    "Rank": 49,
+      "UserRank": 49
   },
   {
     "Name": "Latavius Murray",
@@ -747,7 +796,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 71.5,
     "AverageDraftPosition": 133.1,
-    "Rank": 50
+    "Rank": 50,
+      "UserRank": 50
   },
   {
     "Name": "Nyheim Hines",
@@ -762,7 +812,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 63.4,
     "AverageDraftPosition": 137.9,
-    "Rank": 51
+    "Rank": 51,
+      "UserRank": 51
   },
   {
     "Name": "Giovani Bernard",
@@ -777,7 +828,8 @@
     "ReceivingTouchdowns": 2,
     "FantasyPoints": 63.1,
     "AverageDraftPosition": 145.2,
-    "Rank": 52
+    "Rank": 52,
+      "UserRank": 52
   },
   {
     "Name": "Matt Breida",
@@ -792,7 +844,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 66.6,
     "AverageDraftPosition": 147,
-    "Rank": 53
+    "Rank": 53,
+      "UserRank": 53
   },
   {
     "Name": "Frank Gore",
@@ -807,7 +860,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 64.1,
     "AverageDraftPosition": 154.2,
-    "Rank": 54
+    "Rank": 54,
+      "UserRank": 54
   },
   {
     "Name": "Kenneth Dixon",
@@ -822,7 +876,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 51.2,
     "AverageDraftPosition": 155.3,
-    "Rank": 55
+    "Rank": 55,
+      "UserRank": 55
   },
   {
     "Name": "Spencer Ware",
@@ -837,7 +892,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 49.3,
     "AverageDraftPosition": 158.5,
-    "Rank": 56
+    "Rank": 56,
+      "UserRank": 56
   },
   {
     "Name": "Jordan Wilkins",
@@ -852,7 +908,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 52.2,
     "AverageDraftPosition": 158.7,
-    "Rank": 57
+    "Rank": 57,
+      "UserRank": 57
   },
   {
     "Name": "Kalen Ballage",
@@ -867,7 +924,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 26.6,
     "AverageDraftPosition": 159.8,
-    "Rank": 58
+    "Rank": 58,
+      "UserRank": 58
   },
   {
     "Name": "Bilal Powell",
@@ -882,7 +940,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 63.6,
     "AverageDraftPosition": 160.1,
-    "Rank": 59
+    "Rank": 59,
+      "UserRank": 59
   },
   {
     "Name": "Peyton Barber",
@@ -897,7 +956,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 74.8,
     "AverageDraftPosition": 160.8,
-    "Rank": 60
+    "Rank": 60,
+      "UserRank": 60
   },
   {
     "Name": "Chris Ivory",
@@ -912,7 +972,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 59.9,
     "AverageDraftPosition": 161.4,
-    "Rank": 61
+    "Rank": 61,
+      "UserRank": 61
   },
   {
     "Name": "TJ Yeldon",
@@ -927,7 +988,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 50.8,
     "AverageDraftPosition": 161.9,
-    "Rank": 62
+    "Rank": 62,
+      "UserRank": 62
   },
   {
     "Name": "James White",
@@ -942,7 +1004,8 @@
     "ReceivingTouchdowns": 3,
     "FantasyPoints": 41.8,
     "AverageDraftPosition": 174,
-    "Rank": 63
+    "Rank": 63,
+      "UserRank": 63
   },
   {
     "Name": "Austin Ekeler",
@@ -957,7 +1020,8 @@
     "ReceivingTouchdowns": 2,
     "FantasyPoints": 54.4,
     "AverageDraftPosition": 186,
-    "Rank": 64
+    "Rank": 64,
+      "UserRank": 64
   },
   {
     "Name": "Darren Sproles",
@@ -972,7 +1036,8 @@
     "ReceivingTouchdowns": 2,
     "FantasyPoints": 39.5,
     "AverageDraftPosition": 194,
-    "Rank": 65
+    "Rank": 65,
+      "UserRank": 65
   },
   {
     "Name": "Theo Riddick",
@@ -987,7 +1052,8 @@
     "ReceivingTouchdowns": 2,
     "FantasyPoints": 29,
     "AverageDraftPosition": 199,
-    "Rank": 66
+    "Rank": 66,
+      "UserRank": 66
   },
   {
     "Name": "Elijah McGuire",
@@ -1002,7 +1068,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 41.4,
     "AverageDraftPosition": 204,
-    "Rank": 67
+    "Rank": 67,
+      "UserRank": 67
   },
   {
     "Name": "Travaris Cadet",
@@ -1017,7 +1084,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 26.4,
     "AverageDraftPosition": 218,
-    "Rank": 68
+    "Rank": 68,
+      "UserRank": 68
   },
   {
     "Name": "De'Angelo Henderson",
@@ -1032,7 +1100,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 26.8,
     "AverageDraftPosition": 226,
-    "Rank": 69
+    "Rank": 69,
+      "UserRank": 69
   },
   {
     "Name": "Javorius Allen",
@@ -1047,7 +1116,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 43.2,
     "AverageDraftPosition": 228,
-    "Rank": 70
+    "Rank": 70,
+      "UserRank": 70
   },
   {
     "Name": "Corey Grant",
@@ -1062,7 +1132,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 34.6,
     "AverageDraftPosition": 231,
-    "Rank": 71
+    "Rank": 71,
+      "UserRank": 71
   },
   {
     "Name": "Jalen Richard",
@@ -1077,7 +1148,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 31.5,
     "AverageDraftPosition": 232,
-    "Rank": 72
+    "Rank": 72,
+      "UserRank": 72
   },
   {
     "Name": "Chase Edmonds",
@@ -1092,7 +1164,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 21.2,
     "AverageDraftPosition": 233,
-    "Rank": 73
+    "Rank": 73,
+      "UserRank": 73
   },
   {
     "Name": "Charles Sims",
@@ -1107,7 +1180,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 17.5,
     "AverageDraftPosition": 235,
-    "Rank": 74
+    "Rank": 74,
+      "UserRank": 74
   },
   {
     "Name": "Rod Smith",
@@ -1122,7 +1196,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 46.6,
     "AverageDraftPosition": 236,
-    "Rank": 75
+    "Rank": 75,
+      "UserRank": 75
   },
   {
     "Name": "Mike Davis",
@@ -1137,7 +1212,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 11.8,
     "AverageDraftPosition": 239,
-    "Rank": 76
+    "Rank": 76,
+      "UserRank": 76
   },
   {
     "Name": "Wayne Gallman",
@@ -1152,7 +1228,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 24.6,
     "AverageDraftPosition": 240,
-    "Rank": 77
+    "Rank": 77,
+      "UserRank": 77
   },
   {
     "Name": "Ameer Abdullah",
@@ -1167,7 +1244,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 36.6,
     "AverageDraftPosition": 245,
-    "Rank": 78
+    "Rank": 78,
+      "UserRank": 78
   },
   {
     "Name": "James Conner",
@@ -1182,7 +1260,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 37.3,
     "AverageDraftPosition": 246,
-    "Rank": 79
+    "Rank": 79,
+      "UserRank": 79
   },
   {
     "Name": "Robert Turbin",
@@ -1197,7 +1276,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 14.4,
     "AverageDraftPosition": 249,
-    "Rank": 80
+    "Rank": 80,
+      "UserRank": 80
   },
   {
     "Name": "Kyle Juszczyk",
@@ -1212,7 +1292,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 1,
     "AverageDraftPosition": 253,
-    "Rank": 81
+    "Rank": 81,
+      "UserRank": 81
   },
   {
     "Name": "Samaje Perine",
@@ -1227,7 +1308,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 18.4,
     "AverageDraftPosition": 259,
-    "Rank": 82
+    "Rank": 82,
+      "UserRank": 82
   },
   {
     "Name": "Christine Michael",
@@ -1242,7 +1324,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 6.6,
     "AverageDraftPosition": 262,
-    "Rank": 83
+    "Rank": 83,
+      "UserRank": 83
   },
   {
     "Name": "Joe Williams",
@@ -1257,7 +1340,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 34.4,
     "AverageDraftPosition": 263,
-    "Rank": 84
+    "Rank": 84,
+      "UserRank": 84
   },
   {
     "Name": "Malcolm Brown",
@@ -1272,7 +1356,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 25.7,
     "AverageDraftPosition": 264,
-    "Rank": 85
+    "Rank": 85,
+      "UserRank": 85
   },
   {
     "Name": "Cameron Artis-Payne",
@@ -1287,7 +1372,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 14,
     "AverageDraftPosition": 265,
-    "Rank": 86
+    "Rank": 86,
+      "UserRank": 86
   },
   {
     "Name": "Wendell Smallwood",
@@ -1302,7 +1388,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 18.4,
     "AverageDraftPosition": 267,
-    "Rank": 87
+    "Rank": 87,
+      "UserRank": 87
   },
   {
     "Name": "Jonathan Stewart",
@@ -1317,7 +1404,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 58,
     "AverageDraftPosition": 271,
-    "Rank": 88
+    "Rank": 88,
+      "UserRank": 88
   },
   {
     "Name": "Terrance West",
@@ -1332,7 +1420,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 14.3,
     "AverageDraftPosition": 272,
-    "Rank": 89
+    "Rank": 89,
+      "UserRank": 89
   },
   {
     "Name": "Mark Walton",
@@ -1347,7 +1436,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 17.8,
     "AverageDraftPosition": 273,
-    "Rank": 90
+    "Rank": 90,
+      "UserRank": 90
   },
   {
     "Name": "TJ Logan",
@@ -1362,7 +1452,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 19.6,
     "AverageDraftPosition": 277,
-    "Rank": 91
+    "Rank": 91,
+      "UserRank": 91
   },
   {
     "Name": "Thomas Rawls",
@@ -1377,7 +1468,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 9.5,
     "AverageDraftPosition": 285,
-    "Rank": 92
+    "Rank": 92,
+      "UserRank": 92
   },
   {
     "Name": "Mike Gillislee",
@@ -1392,7 +1484,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 12.6,
     "AverageDraftPosition": 302,
-    "Rank": 93
+    "Rank": 93,
+      "UserRank": 93
   },
   {
     "Name": "CJ Prosise",
@@ -1407,7 +1500,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 32.8,
     "AverageDraftPosition": 306,
-    "Rank": 94
+    "Rank": 94,
+      "UserRank": 94
   },
   {
     "Name": "Matt Jones",
@@ -1422,7 +1516,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 8.7,
     "AverageDraftPosition": 309,
-    "Rank": 95
+    "Rank": 95,
+      "UserRank": 95
   },
   {
     "Name": "Deandre Washington",
@@ -1437,7 +1532,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 28.3,
     "AverageDraftPosition": 310,
-    "Rank": 96
+    "Rank": 96,
+      "UserRank": 96
   },
   {
     "Name": "Jeremy Hill",
@@ -1452,7 +1548,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 33.1,
     "AverageDraftPosition": 311,
-    "Rank": 97
+    "Rank": 97,
+      "UserRank": 97
   },
   {
     "Name": "Rob Kelley",
@@ -1467,7 +1564,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 12.4,
     "AverageDraftPosition": 315,
-    "Rank": 98
+    "Rank": 98,
+      "UserRank": 98
   },
   {
     "Name": "Alfred Blue",
@@ -1482,7 +1580,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 20.9,
     "AverageDraftPosition": 317,
-    "Rank": 99
+    "Rank": 99,
+      "UserRank": 99
   },
   {
     "Name": "Jamize Olawale",
@@ -1497,7 +1596,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": -1.6,
     "AverageDraftPosition": 320,
-    "Rank": 100
+    "Rank": 100,
+      "UserRank": 100
   },
   {
     "Name": "Anthony Sherman",
@@ -1512,7 +1612,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": -2.7,
     "AverageDraftPosition": 327,
-    "Rank": 101
+    "Rank": 101,
+      "UserRank": 101
   },
   {
     "Name": "Zach Zenner",
@@ -1527,7 +1628,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 1.5,
     "AverageDraftPosition": 331,
-    "Rank": 102
+    "Rank": 102,
+      "UserRank": 102
   },
   {
     "Name": "Andy Janovich",
@@ -1542,7 +1644,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 3,
     "AverageDraftPosition": 337,
-    "Rank": 103
+    "Rank": 103,
+      "UserRank": 103
   },
   {
     "Name": "Elijhaa Penny",
@@ -1557,7 +1660,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 8.7,
     "AverageDraftPosition": 342,
-    "Rank": 104
+    "Rank": 104,
+      "UserRank": 104
   },
   {
     "Name": "Zach Line",
@@ -1572,7 +1676,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": -1.7,
     "AverageDraftPosition": 346,
-    "Rank": 105
+    "Rank": 105,
+      "UserRank": 105
   },
   {
     "Name": "Raheem Mostert",
@@ -1587,7 +1692,8 @@
     "ReceivingTouchdowns": 3,
     "FantasyPoints": 26.7,
     "AverageDraftPosition": 351,
-    "Rank": 106
+    "Rank": 106,
+      "UserRank": 106
   },
   {
     "Name": "Brandon Wilds",
@@ -1602,7 +1708,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 1,
     "AverageDraftPosition": 366,
-    "Rank": 107
+    "Rank": 107,
+      "UserRank": 107
   },
   {
     "Name": "Kapri Bibbs",
@@ -1617,7 +1724,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 1.1,
     "AverageDraftPosition": 376,
-    "Rank": 108
+    "Rank": 108,
+      "UserRank": 108
   },
   {
     "Name": "Damien Williams",
@@ -1632,7 +1740,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 18.1,
     "AverageDraftPosition": 381,
-    "Rank": 109
+    "Rank": 109,
+      "UserRank": 109
   },
   {
     "Name": "Jacquizz Rodgers",
@@ -1647,7 +1756,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 20.3,
     "AverageDraftPosition": 390,
-    "Rank": 110
+    "Rank": 110,
+      "UserRank": 110
   },
   {
     "Name": "Tommy Bohanon",
@@ -1662,7 +1772,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": -0.9,
     "AverageDraftPosition": 394,
-    "Rank": 111
+    "Rank": 111,
+      "UserRank": 111
   },
   {
     "Name": "Benjamin Cunningham",
@@ -1677,7 +1788,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 1.8,
     "AverageDraftPosition": 408,
-    "Rank": 112
+    "Rank": 112,
+      "UserRank": 112
   },
   {
     "Name": "Tyler Ervin",
@@ -1692,7 +1804,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 3,
     "AverageDraftPosition": 409,
-    "Rank": 113
+    "Rank": 113,
+      "UserRank": 113
   },
   {
     "Name": "Aaron Ripkowski",
@@ -1707,7 +1820,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": -4.9,
     "AverageDraftPosition": 412,
-    "Rank": 114
+    "Rank": 114,
+      "UserRank": 114
   },
   {
     "Name": "Dwayne Washington",
@@ -1722,7 +1836,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 0,
     "AverageDraftPosition": 415,
-    "Rank": 115
+    "Rank": 115,
+      "UserRank": 115
   },
   {
     "Name": "Mack Brown",
@@ -1737,7 +1852,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 3.1,
     "AverageDraftPosition": 416,
-    "Rank": 116
+    "Rank": 116,
+      "UserRank": 116
   },
   {
     "Name": "Bo Scarbrough",
@@ -1752,7 +1868,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 18.6,
     "AverageDraftPosition": 417,
-    "Rank": 117
+    "Rank": 117,
+      "UserRank": 117
   },
   {
     "Name": "Boston Scott",
@@ -1767,7 +1884,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 22.1,
     "AverageDraftPosition": 426,
-    "Rank": 118
+    "Rank": 118,
+      "UserRank": 118
   },
   {
     "Name": "David Williams",
@@ -1782,7 +1900,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 2,
     "AverageDraftPosition": 430,
-    "Rank": 119
+    "Rank": 119,
+      "UserRank": 119
   },
   {
     "Name": "Kerwynn Williams",
@@ -1797,7 +1916,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 3,
     "AverageDraftPosition": 432,
-    "Rank": 120
+    "Rank": 120,
+      "UserRank": 120
   },
   {
     "Name": "Ito Smith",
@@ -1812,7 +1932,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 26,
     "AverageDraftPosition": 433,
-    "Rank": 121
+    "Rank": 121,
+      "UserRank": 121
   },
   {
     "Name": "John Kelly",
@@ -1827,7 +1948,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 28.1,
     "AverageDraftPosition": 436,
-    "Rank": 122
+    "Rank": 122,
+      "UserRank": 122
   },
   {
     "Name": "JD McKissic",
@@ -1842,7 +1964,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 4.8,
     "AverageDraftPosition": 439,
-    "Rank": 123
+    "Rank": 123,
+      "UserRank": 123
   },
   {
     "Name": "Jaylen Samuels",
@@ -1857,7 +1980,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 10.4,
     "AverageDraftPosition": 443,
-    "Rank": 124
+    "Rank": 124,
+      "UserRank": 124
   },
   {
     "Name": "Justin Jackson",
@@ -1872,7 +1996,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 13.4,
     "AverageDraftPosition": 444,
-    "Rank": 125
+    "Rank": 125,
+      "UserRank": 125
   },
   {
     "Name": "Donnel Pumphrey",
@@ -1887,7 +2012,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 1.9,
     "AverageDraftPosition": 449,
-    "Rank": 126
+    "Rank": 126,
+      "UserRank": 126
   },
   {
     "Name": "Justin Davis",
@@ -1902,7 +2028,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": -0.8,
     "AverageDraftPosition": 452,
-    "Rank": 127
+    "Rank": 127,
+      "UserRank": 127
   },
   {
     "Name": "Dalton Crossan",
@@ -1917,7 +2044,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 1.4,
     "AverageDraftPosition": 453,
-    "Rank": 128
+    "Rank": 128,
+      "UserRank": 128
   },
   {
     "Name": "Stevan Ridley",
@@ -1932,7 +2060,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 3.2,
     "AverageDraftPosition": 454,
-    "Rank": 129
+    "Rank": 129,
+      "UserRank": 129
   },
   {
     "Name": "Trenton Cannon",
@@ -1947,7 +2076,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 3.3,
     "AverageDraftPosition": 456,
-    "Rank": 130
+    "Rank": 130,
+      "UserRank": 130
   },
   {
     "Name": "Brian Hill",
@@ -1962,7 +2092,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": -0.5,
     "AverageDraftPosition": 457,
-    "Rank": 131
+    "Rank": 131,
+      "UserRank": 131
   },
   {
     "Name": "Alan Cross",
@@ -1977,7 +2108,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 4.4,
     "AverageDraftPosition": 458,
-    "Rank": 132
+    "Rank": 132,
+      "UserRank": 132
   },
   {
     "Name": "Charcandrick West",
@@ -1992,7 +2124,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 0.2,
     "AverageDraftPosition": 473,
-    "Rank": 133
+    "Rank": 133,
+      "UserRank": 133
   },
   {
     "Name": "Patrick DiMarco",
@@ -2007,7 +2140,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": -2.3,
     "AverageDraftPosition": 474,
-    "Rank": 134
+    "Rank": 134,
+      "UserRank": 134
   },
   {
     "Name": "James Develin",
@@ -2022,7 +2156,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": -4.2,
     "AverageDraftPosition": 475,
-    "Rank": 135
+    "Rank": 135,
+      "UserRank": 135
   },
   {
     "Name": "DJ Foster",
@@ -2037,7 +2172,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": -3.7,
     "AverageDraftPosition": 478,
-    "Rank": 136
+    "Rank": 136,
+      "UserRank": 136
   },
   {
     "Name": "Derek Watt",
@@ -2052,7 +2188,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 0.7,
     "AverageDraftPosition": 480,
-    "Rank": 137
+    "Rank": 137,
+      "UserRank": 137
   },
   {
     "Name": "Trey Edmunds",
@@ -2067,7 +2204,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 5,
     "AverageDraftPosition": 486,
-    "Rank": 138
+    "Rank": 138,
+      "UserRank": 138
   },
   {
     "Name": "Shane Smith",
@@ -2082,7 +2220,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 2.5,
     "AverageDraftPosition": 494,
-    "Rank": 139
+    "Rank": 139,
+      "UserRank": 139
   },
   {
     "Name": "Michael Burton",
@@ -2097,7 +2236,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 1.3,
     "AverageDraftPosition": 495,
-    "Rank": 140
+    "Rank": 140,
+      "UserRank": 140
   },
   {
     "Name": "Devante Mays",
@@ -2112,7 +2252,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 0.3,
     "AverageDraftPosition": 499,
-    "Rank": 141
+    "Rank": 141,
+      "UserRank": 141
   },
   {
     "Name": "CJ Ham",
@@ -2127,7 +2268,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": -6.2,
     "AverageDraftPosition": 500,
-    "Rank": 142
+    "Rank": 142,
+      "UserRank": 142
   },
   {
     "Name": "Jay Prosch",
@@ -2142,7 +2284,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": -4.3,
     "AverageDraftPosition": 501,
-    "Rank": 143
+    "Rank": 143,
+      "UserRank": 143
   },
   {
     "Name": "Daniel Lasco",
@@ -2157,7 +2300,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": -1.5,
     "AverageDraftPosition": 503,
-    "Rank": 144
+    "Rank": 144,
+      "UserRank": 144
   },
   {
     "Name": "Marcus Murphy",
@@ -2172,7 +2316,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": -3.7,
     "AverageDraftPosition": 506,
-    "Rank": 145
+    "Rank": 145,
+      "UserRank": 145
   },
   {
     "Name": "Dan Vitale",
@@ -2187,7 +2332,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": -3,
     "AverageDraftPosition": 513,
-    "Rank": 146
+    "Rank": 146,
+      "UserRank": 146
   },
   {
     "Name": "Fitzgerald Toussaint",
@@ -2202,7 +2348,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 0.3,
     "AverageDraftPosition": 515,
-    "Rank": 147
+    "Rank": 147,
+      "UserRank": 147
   },
   {
     "Name": "Marquez Williams",
@@ -2217,7 +2364,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": -1.2,
     "AverageDraftPosition": 516,
-    "Rank": 148
+    "Rank": 148,
+      "UserRank": 148
   },
   {
     "Name": "Tre Madden",
@@ -2232,7 +2380,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": -4.2,
     "AverageDraftPosition": 520,
-    "Rank": 149
+    "Rank": 149,
+      "UserRank": 149
   },
   {
     "Name": "Nick Bawden",
@@ -2247,7 +2396,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": -1.1,
     "AverageDraftPosition": 521,
-    "Rank": 150
+    "Rank": 150,
+      "UserRank": 150
   },
   {
     "Name": "Brandon Bolden",
@@ -2262,7 +2412,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 0.6,
     "AverageDraftPosition": 523,
-    "Rank": 151
+    "Rank": 151,
+      "UserRank": 151
   },
   {
     "Name": "Keith Smith",
@@ -2277,7 +2428,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": -4.4,
     "AverageDraftPosition": 524,
-    "Rank": 152
+    "Rank": 152,
+      "UserRank": 152
   },
   {
     "Name": "Taiwan Jones",
@@ -2292,7 +2444,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": -1.4,
     "AverageDraftPosition": 526,
-    "Rank": 153
+    "Rank": 153,
+      "UserRank": 153
   },
   {
     "Name": "Austin Johnson",
@@ -2307,7 +2460,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": -1.3,
     "AverageDraftPosition": 536,
-    "Rank": 154
+    "Rank": 154,
+      "UserRank": 154
   },
   {
     "Name": "Matt Dayes",
@@ -2322,7 +2476,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": -0.9,
     "AverageDraftPosition": 543,
-    "Rank": 155
+    "Rank": 155,
+      "UserRank": 155
   },
   {
     "Name": "Jalston Fowler",
@@ -2337,7 +2492,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": -2.8,
     "AverageDraftPosition": 554,
-    "Rank": 156
+    "Rank": 156,
+      "UserRank": 156
   },
   {
     "Name": "David Fluellen",
@@ -2352,7 +2508,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": -1.5,
     "AverageDraftPosition": 555,
-    "Rank": 157
+    "Rank": 157,
+      "UserRank": 157
   },
   {
     "Name": "Senorise Perry",
@@ -2367,7 +2524,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": -1.8,
     "AverageDraftPosition": 569,
-    "Rank": 158
+    "Rank": 158,
+      "UserRank": 158
   },
   {
     "Name": "Jeremy McNichols",
@@ -2382,7 +2540,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": -4.5,
     "AverageDraftPosition": 587,
-    "Rank": 159
+    "Rank": 159,
+      "UserRank": 159
   },
   {
     "Name": "Troymaine Pope",
@@ -2397,7 +2556,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 1.2,
     "AverageDraftPosition": 588,
-    "Rank": 160
+    "Rank": 160,
+      "UserRank": 160
   },
   {
     "Name": "Roosevelt Nix",
@@ -2412,7 +2572,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 0.3,
     "AverageDraftPosition": 589,
-    "Rank": 161
+    "Rank": 161,
+      "UserRank": 161
   },
   {
     "Name": "Russell Hansbrough",
@@ -2427,7 +2588,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 0.3,
     "AverageDraftPosition": 590,
-    "Rank": 162
+    "Rank": 162,
+      "UserRank": 162
   },
   {
     "Name": "Taquan Mizzell",
@@ -2442,7 +2604,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 0.3,
     "AverageDraftPosition": 591,
-    "Rank": 163
+    "Rank": 163,
+      "UserRank": 163
   },
   {
     "Name": "Jonathan Williams",
@@ -2457,7 +2620,8 @@
     "ReceivingTouchdowns": 1,
     "FantasyPoints": 23.5,
     "AverageDraftPosition": 606,
-    "Rank": 164
+    "Rank": 164,
+      "UserRank": 164
   },
   {
     "Name": "Shane Vereen",
@@ -2472,7 +2636,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 14.7,
     "AverageDraftPosition": 648,
-    "Rank": 165
+    "Rank": 165,
+      "UserRank": 165
   },
   {
     "Name": "Elijah Hood",
@@ -2487,7 +2652,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 0,
     "AverageDraftPosition": 654,
-    "Rank": 166
+    "Rank": 166,
+      "UserRank": 166
   },
   {
     "Name": "Kenjon Barner",
@@ -2502,7 +2668,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 2.4,
     "AverageDraftPosition": 661,
-    "Rank": 167
+    "Rank": 167,
+      "UserRank": 167
   },
   {
     "Name": "Josh Ferguson",
@@ -2517,7 +2684,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": -4.2,
     "AverageDraftPosition": 663,
-    "Rank": 168
+    "Rank": 168,
+      "UserRank": 168
   },
   {
     "Name": "Malcolm Johnson",
@@ -2532,7 +2700,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 0,
     "AverageDraftPosition": 668,
-    "Rank": 169
+    "Rank": 169,
+      "UserRank": 169
   },
   {
     "Name": "Joe Kerridge",
@@ -2547,7 +2716,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": -3.9,
     "AverageDraftPosition": 670,
-    "Rank": 170
+    "Rank": 170,
+      "UserRank": 170
   },
   {
     "Name": "Tra Carson",
@@ -2562,7 +2732,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 0,
     "AverageDraftPosition": 674,
-    "Rank": 171
+    "Rank": 171,
+      "UserRank": 171
   },
   {
     "Name": "Derrick Coleman",
@@ -2577,7 +2748,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": -1.3,
     "AverageDraftPosition": 678,
-    "Rank": 172
+    "Rank": 172,
+      "UserRank": 172
   },
   {
     "Name": "Terrence Magee",
@@ -2592,7 +2764,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 0,
     "AverageDraftPosition": 780,
-    "Rank": 173
+    "Rank": 173,
+      "UserRank": 173
   },
   {
     "Name": "Alex Armah",
@@ -2607,7 +2780,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": -5.9,
     "AverageDraftPosition": 828,
-    "Rank": 174
+    "Rank": 174,
+      "UserRank": 174
   },
   {
     "Name": "Brandon Radcliff",
@@ -2622,7 +2796,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 13.3,
     "AverageDraftPosition": 840,
-    "Rank": 175
+    "Rank": 175,
+      "UserRank": 175
   },
   {
     "Name": "James Summers",
@@ -2637,7 +2812,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 26.6,
     "AverageDraftPosition": 874,
-    "Rank": 176
+    "Rank": 176,
+      "UserRank": 176
   },
   {
     "Name": "Jordan Chunn",
@@ -2652,7 +2828,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 10.5,
     "AverageDraftPosition": 1003,
-    "Rank": 177
+    "Rank": 177,
+      "UserRank": 177
   },
   {
     "Name": "Jarvion Franklin",
@@ -2667,7 +2844,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": 17.7,
     "AverageDraftPosition": 1047,
-    "Rank": 178
+    "Rank": 178,
+      "UserRank": 178
   },
   {
     "Name": "Josh Adams",
@@ -2682,7 +2860,8 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": -0.5,
     "AverageDraftPosition": 1063,
-    "Rank": 179
+    "Rank": 179,
+      "UserRank": 179
   },
   {
     "Name": "Akrum Wadley",
@@ -2697,6 +2876,7 @@
     "ReceivingTouchdowns": 0,
     "FantasyPoints": -1.5,
     "AverageDraftPosition": 1073,
-    "Rank": 180
+    "Rank": 180,
+      "UserRank": 180
   }
 ]
