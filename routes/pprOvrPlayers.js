@@ -39,7 +39,15 @@ router.put('/:UserRank', (req, res, next) => {
   let originIndex = req.params.UserRank-1, 
     newIndex = req.body.UserRank-1,
     start = originIndex > newIndex ? newIndex: originIndex, 
-    finish = originIndex > newIndex ? originIndex : newIndex, updatedPlayer =[];
+    finish = originIndex > newIndex ? originIndex : newIndex;
+  
+
+  console.log('originIndex:', originIndex);
+  console.log('newIndex', newIndex);
+  console.log('start: ', start);  
+  console.log('finish: ', finish);  
+
+
   PprOverall.find()
     .then(results => {
 
@@ -52,23 +60,24 @@ router.put('/:UserRank', (req, res, next) => {
       
         results.splice(newIndex,0, player[0]);
   
+        const promises = [];
         for (let i = start; i <= finish; i +=1){
           
-          PprOverall.findByIdAndUpdate(results[i].id, { $set: { UserRank: i+1 }}, { new: true }, function (err, currentPlayer) {
-            if (err) {
-              console.log(err);
-            }
+          const promise = PprOverall.findByIdAndUpdate(results[i].id, { $set: { UserRank: i+1 }}, { new: true }).then(currentPlayer => {
             results[i].UserRank = currentPlayer.UserRank;
             results[i] =currentPlayer;
 
+            return currentPlayer;
+          });
             
 
-          });
-          updatedPlayer.push(results[i]);
+            
+          promises.push(promise);
         }
-        console.log(updatedPlayer);
+        Promise.all(promises).then(players => {
+          res.json(players);
+        });
 
-        res.send('hello');
   
       } else {
         next();

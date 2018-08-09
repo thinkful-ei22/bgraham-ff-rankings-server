@@ -7,8 +7,8 @@ const pprWrSchema = new mongoose.Schema({
   Team: String,
   Position: String,
   ByeWeek : Number,
-  Rank: {type: Number, required: true, unique: true},
-  UserRank: {type: Number, required: true, unique: true}
+  Rank: {type: Number, unique: true},
+  UserRank: {type: Number, required: true}
 }, {collection: 'ppr-wr'});
 
 pprWrSchema.set('toObject', {
