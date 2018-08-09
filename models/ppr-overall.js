@@ -8,7 +8,7 @@ const pprOverallSchema = new mongoose.Schema({
   Position: String,
   ByeWeek : Number,
   Rank: {type: Number, required: true, unique: true},
-  UserRank: {type: Number, required: true, unique: true}
+  UserRank: {type: Number, required: true}
 }, {collection: 'ppr-overall'});
 
 pprOverallSchema.set('toObject', {
