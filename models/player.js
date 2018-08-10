@@ -2,16 +2,18 @@
 
 const mongoose = require ('mongoose');
 
-const pprOverallSchema = new mongoose.Schema({
+const playerSchema = new mongoose.Schema({
   Name: {type: String, required: true},
   Team: String,
   Position: String,
   ByeWeek : Number,
   Rank: {type: Number, unique: true},
-  UserRank: {type: Number, required: true}
+  UserRank: {type: Number, required: true},
+  Category: {type: String},
+  OvrRank: {type: Number, unique: true}
 });
 
-pprOverallSchema.set('toObject', {
+playerSchema.set('toObject', {
   virtuals: true,     // include built-in virtual `id`
   versionKey: false,  // remove `__v` version key
   transform: (doc, ret) => {
@@ -19,4 +21,4 @@ pprOverallSchema.set('toObject', {
   }
 });
 
-module.exports = mongoose.model('PprOverall', pprOverallSchema);
+module.exports = mongoose.model('Player', playerSchema);
