@@ -18,10 +18,12 @@ router.get('/', (req, res, next) =>{
 });
 
 
-router.get('/:UserRank', (req, res, next) =>{
-  const userRank = req.params.UserRank;
+router.get('/:id', (req, res, next) =>{
 
-  PprOverall.findOne({UserRank: userRank})
+
+  const {id}= req.params;
+
+  PprOverall.findOne({_id: id})
     .then(result => {
       if (result) {
         res.json(result);
@@ -34,41 +36,89 @@ router.get('/:UserRank', (req, res, next) =>{
     });
 });
 
-router.put('/:UserRank', (req, res, next) => {
+router.put('/:id', (req, res, next) => {
 
-  let startRank = req.params.UserRank;
-  let startIndex = req.params.UserRank-1;
-  console.log('startRank: ', startRank);
-  console.log('startIndex: ', startIndex);
+  const {id} = req.params;
+  const {Name, UserRank} = req.body;
+  const updatePlayer = {Name, UserRank};
+  
+  
+  if (!mongoose.Types.ObjectId.isValid(id)) {
+    const err = new Error('The `id` is not valid');
+    err.status = 400;
+    return next(err);
+  }
 
-  let endRank = req.body.UserRank;
-  let endIndex = req.body.UserRank-1;
-  console.log('endRank: ', endRank);
-  console.log('endIndex: ', endIndex);
+  if (Name === '') {
+    const err = new Error('Missing `Name` in request body');
+    err.status = 400;
+    return next(err);
+  }
 
-
+  if (UserRank === undefined){
+    const err = new Error('Missing `UserRank` in request body');
+    err.status = 400;
+    return next(err);
+  }
 
   PprOverall.find()
     .then (players => {
       if (players){
+        let playerToUpdate;
 
-        let player = players.splice(startIndex, 1);
+
+        for (let i =0; i < players.length; i++){
+          if (players[i].id === id){
+            playerToUpdate = players.splice(i, 1);
+            // console.log('splicedPlayer: ', playerToUpdate);
+          }
+        }
         
-        console.log('splicedPlayer: ', player);
+        let startRank = playerToUpdate[0].UserRank;
+        // console.log('startRank: ', startRank);
 
-        players.splice(endIndex,0, player[0]);
+        let startIndex = startRank-1;
+        // console.log('startIndex: ', startIndex);
+
+        let endRank = updatePlayer.UserRank;
+        // console.log('endRank: ', endRank);
+
+        let endIndex = endRank-1;
+        // console.log('endIndex: ', endIndex);
+
+        players.splice(endIndex,0, playerToUpdate[0]);
 
         const promises = [];
-        for (let i = startIndex; i <= endIndex; i +=1){
+
+        if (startIndex < endIndex){
+          for (let i = startIndex; i <= endIndex; i +=1){
           
-          const promise = PprOverall.findByIdAndUpdate(players[i].id, { $set: { UserRank: i+1 }}, { new: true }).then(currentPlayer => {
-            players[i].UserRank = currentPlayer.UserRank;
-            players[i] =currentPlayer;
+            const promise = PprOverall.findByIdAndUpdate(players[i].id, { $set: { UserRank: i+1 }}, { new: true }).then(currentPlayer => {
 
-            return currentPlayer;
-          });
-          promises.push(promise);
+              // console.log('current Player: ', currentPlayer);
+              players[i].UserRank = currentPlayer.UserRank;
+              players[i] =currentPlayer;
 
+              return currentPlayer;
+            });
+            promises.push(promise);
+
+          }
+        }
+        else if (startIndex > endIndex){
+          for (let i = startIndex; i >= endIndex; i -=1){
+          
+            const promise = PprOverall.findByIdAndUpdate(players[i].id, { $set: { UserRank: i+1 }}, { new: true }).then(currentPlayer => {
+
+              // console.log('current Player: ', currentPlayer);
+              players[i].UserRank = currentPlayer.UserRank;
+              players[i] =currentPlayer;
+
+              return currentPlayer;
+            });
+            promises.push(promise);
+
+          }
         }
         
         Promise.all(promises).then(updatedPlayers => {
@@ -79,78 +129,11 @@ router.put('/:UserRank', (req, res, next) => {
             });
         });
       }
+    })
+    .catch(err => {
+      next(err);
     });
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  // let originIndex = req.params.UserRank-1, 
-  //   newIndex = req.body.UserRank-1,
-  //   start = originIndex > newIndex ? newIndex: originIndex, 
-  //   finish = originIndex > newIndex ? originIndex : newIndex;
-  
-
-  // console.log('originIndex:', originIndex);
-  // console.log('newIndex', newIndex);
-  // console.log('start: ', start);  
-  // console.log('finish: ', finish);  
-
-
-  // PprOverall.find()
-  //   .then(results => {
-
-  //     //origin = 3, new = 0
-      
-
-  //     if(results){
-  //       let player = results.splice(originIndex, 1);
-
-      
-  //       results.splice(newIndex,0, player[0]);
-  
-  //       const promises = [];
-  //       for (let i = start; i <= finish; i +=1){
-          
-  //         const promise = PprOverall.findByIdAndUpdate(results[i].id, { $set: { UserRank: i+1 }}, { new: true }).then(currentPlayer => {
-  //           results[i].UserRank = currentPlayer.UserRank;
-  //           results[i] =currentPlayer;
-
-  //           return currentPlayer;
-  //         });
-            
-
-            
-  //         promises.push(promise);
-  //       }
-  //       Promise.all(promises).then(players => {
-  //         res.json(players);
-  //       });
-
-  
-  //     } else {
-  //       next();
-  //     }
-  //   })
-  //   .catch(err => next(err));
 });
 
 
