@@ -10,8 +10,8 @@ router.get('/', (req, res, next) =>{
 
   PprOverall.find()
     .sort({UserRank: 1})
+
     .then(results => {
-    // console.log(results);
       res.status(200).json(results);
     })
     .catch(err => next(err));
@@ -123,7 +123,6 @@ router.put('/:id', (req, res, next) => {
         
         Promise.all(promises).then(updatedPlayers => {
           PprOverall.find()
-            .sort({UserRank: 1})
             .then (results => {
               res.json(results);
             });
