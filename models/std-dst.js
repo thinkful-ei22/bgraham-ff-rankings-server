@@ -7,6 +7,15 @@ const stdDstSchema = new mongoose.Schema({
   Team: String,
   Position: String,
   ByeWeek : Number,
+  TacklesForLoss: Number,
+  Sacks: Number,
+  QuarterbackHits: Number,
+  Interceptions: Number,
+  FumblesRecovered: Number,
+  Safeties: Number,
+  DefensiveTouchdowns: Number,
+  SpecialTeamsTouchdowns: Number,
+  FantasyPoints: Number,
   Rank: {type: Number, unique: true},
   UserRank: {type: Number, required: true}
 }, {collection: 'std-dst'});

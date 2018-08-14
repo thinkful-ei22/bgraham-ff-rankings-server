@@ -7,6 +7,12 @@ const pprRbSchema = new mongoose.Schema({
   Team: String,
   Position: String,
   ByeWeek : Number,
+  RushingYards: Number,
+  RushingTouchdowns: Number,
+  Receptions: Number,
+  ReceivingYards: Number,
+  ReceivingTouchdowns: Number,
+  FantasyPoints: Number,
   Rank: {type: Number, unique: true},
   UserRank: {type: Number, required: true}
 }, {collection: 'ppr-rb'});

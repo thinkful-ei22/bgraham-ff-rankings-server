@@ -7,6 +7,10 @@ const stdTeSchema = new mongoose.Schema({
   Team: String,
   Position: String,
   ByeWeek : Number,
+  Receptions: Number,
+  ReceivingYards: Number,
+  ReceivingTouchdowns: Number,
+  FantasyPoints: Number,
   Rank: {type: Number, unique: true},
   UserRank: {type: Number, required: true}
 }, {collection: 'std-te'});

@@ -7,6 +7,12 @@ const stdKSchema = new mongoose.Schema({
   Team: String,
   Position: String,
   ByeWeek : Number,
+  FieldGoalsMade: Number,
+  FieldGoalsAttempted: Number,
+  FieldGoalPercentage: Number,
+  ExtraPointsMade: Number,
+  ExtraPointsAttempted: Number,
+  FantasyPoints: Number,
   Rank: {type: Number, unique: true},
   UserRank: {type: Number, required: true}
 }, {collection: 'std-k'});

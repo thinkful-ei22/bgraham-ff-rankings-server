@@ -7,8 +7,16 @@ const stdQbSchema = new mongoose.Schema({
   Team: String,
   Position: String,
   ByeWeek : Number,
+  PassingYards: Number,
+  PassingTouchdowns: Number,
+  PassingInterceptions: Number,
+  RushingYards: Number,
+  RushingTouchdowns: Number,
+  FantasyPoints: Number,
   Rank: {type: Number, unique: true},
   UserRank: {type: Number, required: true}
+  
+
 }, {collection: 'std-qb'});
 
 stdQbSchema.set('toObject', {
