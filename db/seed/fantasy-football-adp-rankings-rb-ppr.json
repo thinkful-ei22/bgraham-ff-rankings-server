@@ -13,7 +13,9 @@
     "FantasyPoints": 391.5,
     "AverageDraftPosition": 1.5,
     "Rank": 1,
-      "UserRank": 1
+      "UserRank": 1,
+    "Profile": "https://images.fantasypros.com/images/nfl/players/250x250/13912.jpg"
+
   },
   {
     "Name": "Le'Veon Bell",
@@ -29,7 +31,9 @@
     "FantasyPoints": 375.1,
     "AverageDraftPosition": 2.5,
     "Rank": 2,
-      "UserRank": 2
+      "UserRank": 2,
+    "Profile": "https://images.fantasypros.com/images/nfl/players/250x250/11645.jpg"
+
   },
   {
     "Name": "Ezekiel Elliott",
@@ -45,7 +49,9 @@
     "FantasyPoints": 347.6,
     "AverageDraftPosition": 3,
     "Rank": 3,
-      "UserRank": 3
+      "UserRank": 3,
+    "Profile": "https://images.fantasypros.com/images/nfl/players/250x250/15498.jpg"
+
   },
   {
     "Name": "David Johnson",
@@ -61,7 +67,9 @@
     "FantasyPoints": 398.8,
     "AverageDraftPosition": 3.9,
     "Rank": 4,
-      "UserRank": 4
+      "UserRank": 4,
+    "Profile": "https://images.fantasypros.com/images/nfl/players/250x250/13948.jpg"
+
   },
   {
     "Name": "Alvin Kamara",
@@ -77,7 +85,9 @@
     "FantasyPoints": 346.9,
     "AverageDraftPosition": 6.3,
     "Rank": 5,
-      "UserRank": 5
+      "UserRank": 5,
+    "Profile": "https://images.fantasypros.com/images/nfl/players/250x250/16421.jpg"
+
   },
   {
     "Name": "Saquon Barkley",
@@ -93,7 +103,9 @@
     "FantasyPoints": 293.4,
     "AverageDraftPosition": 6.9,
     "Rank": 6,
-      "UserRank": 6
+      "UserRank": 6,
+    "Profile": "https://images.fantasypros.com/images/nfl/players/250x250/17240.jpg"
+
   },
   {
     "Name": "Melvin Gordon",
@@ -109,7 +121,8 @@
     "FantasyPoints": 286.9,
     "AverageDraftPosition": 9,
     "Rank": 7,
-      "UserRank": 7
+      "UserRank": 7,
+    "Profile": "https://images.fantasypros.com/images/nfl/players/250x250/13903.jpg"
   },
   {
     "Name": "Kareem Hunt",
@@ -141,7 +154,8 @@
     "FantasyPoints": 283.2,
     "AverageDraftPosition": 11.5,
     "Rank": 9,
-      "UserRank": 9
+      "UserRank": 9,
+    "Profile": "https://images.fantasypros.com/images/nfl/players/250x250/16378.jpg"
   },
   {
     "Name": "Dalvin Cook",
@@ -157,7 +171,8 @@
     "FantasyPoints": 288.4,
     "AverageDraftPosition": 12.9,
     "Rank": 10,
-      "UserRank": 10
+      "UserRank": 10,
+    "Profile": "https://images.fantasypros.com/images/nfl/players/250x250/16374.jpg"
   },
   {
     "Name": "Devonta Freeman",

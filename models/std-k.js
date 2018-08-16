@@ -13,6 +13,7 @@ const stdKSchema = new mongoose.Schema({
   ExtraPointsMade: Number,
   ExtraPointsAttempted: Number,
   FantasyPoints: Number,
+  Profile: String,
   Rank: {type: Number, unique: true},
   UserRank: {type: Number, required: true}
 }, {collection: 'std-k'});

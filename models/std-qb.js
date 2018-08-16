@@ -13,6 +13,7 @@ const stdQbSchema = new mongoose.Schema({
   RushingYards: Number,
   RushingTouchdowns: Number,
   FantasyPoints: Number,
+  Profile: String,
   Rank: {type: Number, unique: true},
   UserRank: {type: Number, required: true}
   

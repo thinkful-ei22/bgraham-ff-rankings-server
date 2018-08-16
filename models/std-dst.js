@@ -16,6 +16,7 @@ const stdDstSchema = new mongoose.Schema({
   DefensiveTouchdowns: Number,
   SpecialTeamsTouchdowns: Number,
   FantasyPoints: Number,
+  Profile: String,
   Rank: {type: Number, unique: true},
   UserRank: {type: Number, required: true}
 }, {collection: 'std-dst'});

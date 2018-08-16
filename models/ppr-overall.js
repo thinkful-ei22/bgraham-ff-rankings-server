@@ -30,6 +30,7 @@ const pprOverallSchema = new mongoose.Schema({
   ExtraPointsMade: Number,
   ExtraPointsAttempted: Number,
   FantasyPoints: Number,
+  Profile: String,
   Expanded: {type: Boolean, default: false}
 });
 
