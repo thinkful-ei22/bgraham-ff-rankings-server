@@ -1,3 +1,10 @@
 language: node_js
 node_js: node
 services: mongodb
+deploy:
+  provider: heroku
+  api_key:
+    secure: U3ygTNttcZdkP3VrYYQMAXG5zsCQPyXvQiI3TG2XL62DOlSylDK+rcbizsf+lUJB5FOPNFJaKlHDEn+0vsz1LK7AVWUETW5J95fkuER666Xn4Gfm5WMiRrY/cqYd+OOIlub8hyKhaTtHUYrTX1U9As/KHstH7pd6PXseK28CXg+4rmSMqZ0l4xxE+xxkYneTaRUowjc3sUyqGX1zksVrdR7uSMcodIMOsC9KnDIlNdKXTxUdv9OTtGR0uIznITjKrAB8CtoR9NNvhmef2yz/heJc95IYesriZpZoNcBM5tirk6cnJuNFXmuk6GWP4mewYFKVDZsaMwLNTKWzih0gnA+M6FYj+sx66vNQa7/f18IxgbEaN/duXhWpyiuGsklOA3eZoX/5EGK0JdHT1U8P55iGyIB2HMOSIoOsl6Pr87lnT7Ptn+ZDJFiQWuKuKHDFIULIeIf3pTtDtSczF/wUQZqhj8ubgS2xwNIvgfcFecA80xeh9F6r9lU54FCjC/yu83p9++gCNc1psZdAE1kkfJOr5ObH2Bp/fWVtNc9IyXDfOYBDkTPKCvVR7fGXMloUlUAposlwDWXy7BjYN6WYwav/dRXrpzcqJarMxrNPChj4w26gO3OkvsgdgK8iH6rrmL28ne76/vBAKn/EvAShQUcs0qixiF5HOvydWGCUGCs=
+  app:  secure-oasis-16064
+  on:
+    repo: thinkful-ei22/bgraham-ff-rankings-server
