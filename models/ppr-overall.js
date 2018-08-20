@@ -32,7 +32,7 @@ const pprOverallSchema = new mongoose.Schema({
   FantasyPoints: Number,
   Profile: String,
   Expanded: {type: Boolean, default: false}
-});
+},  {collection: 'ppr-overall'});
 
 pprOverallSchema.set('toObject', {
   virtuals: true,     // include built-in virtual `id`

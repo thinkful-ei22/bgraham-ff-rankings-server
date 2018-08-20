@@ -49,7 +49,7 @@ app.use(express.json());
   
 
 // Mount routers
-app.use('/api/about', function (req, res, next) {
+app.use('/about', function (req, res, next) {
 
   res.send('About Me');
 });
